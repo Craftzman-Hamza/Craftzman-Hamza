@@ -16,6 +16,8 @@ I've ventured into uncharted territories 🌌 and am at the forefront of explora
 - 💬 Ask me about **Game Testing**, **Game Analysis**, **Game Design**
 - 📫 How to reach me: [Gmail](mailto:dev.hamzasultan@gmail.com) | [Outlook](mailto:dev.hamza@outlook.com)
 
+- 📃 [My Resume](https://drive.google.com/file/d/1_s98xVKQOPF0CfP7OwKZzXexUZXPGTiK/view?usp=sharing)
+
 <p align="right"><img src="https://komarev.com/ghpvc/?username=GameAnalyst-Hamza&label=Profile%20views&color=0e75b6&style=flat" alt="GameAnalyst-Hamza" /></p>
 
 ---
