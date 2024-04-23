@@ -1,6 +1,6 @@
 <h1 align="center">Hi Folks <img src="./assets/wave.gif" width="30">, I'm Hamza</h1>
 
-<h3 align="center">Digital Craftsman🎮 (Game Analyst/Designer)🕹️</h3>
+<h3 align="center">Digital Craftsman🎮 (Game Quality Assurance Analyst / Game Designer)🕹️</h3>
 
 <p align="justify">
 I'm an enthusiastic Computer Science professional with an unwavering dedication to the gaming realm. 🎮 I'm on a relentless quest for excellence in the world of gaming, 🚀 and on a mission to craft mesmerizing gaming experiences.
@@ -18,7 +18,7 @@ I've ventured into uncharted territories 🌌 and am at the forefront of explora
 
 - 📃 [My Resume](https://drive.google.com/file/d/1_s98xVKQOPF0CfP7OwKZzXexUZXPGTiK/view?usp=sharing)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=GameAnalyst-Hamza&label=Profile%20views&color=0e75b6&style=flat" alt="GameAnalyst-Hamza" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Craftzman-Hamza&label=Profile%20views&color=0e75b6&style=flat" alt="Craftzman-Hamza" /></p>
 
 ---
 
@@ -59,10 +59,10 @@ I've ventured into uncharted territories 🌌 and am at the forefront of explora
 ---
 
 <h3>🐱‍💻 GitHub Language Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GameAnalyst-Hamza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GameAnalyst-Hamza" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Craftzman-Hamza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Craftzman-Hamza" />
 
 <h3>💻 GitHub Profile Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=GameAnalyst-Hamza&show_icons=true&locale=en&theme=tokyonight" alt="GameAnalyst-Hamza" />
+<img src="https://github-readme-stats.vercel.app/api?username=Craftzman-Hamza&show_icons=true&locale=en&theme=tokyonight" alt="Craftzman-Hamza" />
 
 <h3 align="left">🔥 Streak Stats</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GameAnalyst-Hamza&&theme=tokyonight" alt="GameAnalyst-Hamza" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Craftzman-Hamza&&theme=tokyonight" alt="Craftzman-Hamza" />
