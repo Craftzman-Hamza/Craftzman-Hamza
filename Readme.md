@@ -12,7 +12,6 @@ I've ventured into uncharted territories 🌌 and am at the forefront of explora
 </p>
 
 - 🔭 I’m currently working at [FRAG Games](https://www.frag-games.com/) as **Associate Lead - Game Analyst**
-- 🤝 My Involvement in Projects [Life in Willowdale](https://www.lifeinwillowdale.com/) | [DopeWarZ](https://dopewarz.io/) | [Warring Tribes](https://www.vemp.xyz/games) | [Mr. President](https://apps.apple.com/pk/app/mr-presidents/id1591868346) | [FoodFight]()
 - 💬 Ask me about **Game Testing**, **Game Analysis**, **Game Design**
 - 📫 How to reach me: [Gmail](mailto:dev.hamzasultan@gmail.com) | [Outlook](mailto:dev.hamza@outlook.com)
 
