@@ -13,12 +13,3 @@ At the forefront of exploration in this ever-evolving world 🌍, I’m always e
 
 - 🔭 I’m currently working at [FRAG Games](https://www.frag-games.com/) as **Associate Team Lead - Game Quality Assurance Analyst**
 - 📫 How to reach me: [Gmail](mailto:dev.hamzasultan@gmail.com)
-
-<h3>🐱‍💻 GitHub Language Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Craftzman-Hamza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Craftzman-Hamza" />
-
-<h3>💻 GitHub Profile Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Craftzman-Hamza&show_icons=true&locale=en&theme=tokyonight" alt="Craftzman-Hamza" />
-
-<h3 align="left">🔥 Streak Stats</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Craftzman-Hamza&&theme=tokyonight" alt="Craftzman-Hamza" />
