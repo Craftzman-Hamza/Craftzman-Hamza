@@ -3,7 +3,7 @@
 <h3 align="center">🎮Digital Craftsman🕹️</h3>
 
 <p align="justify">
-I’m an enthusiastic Computer Science grad — a Game Quality Assurance Analyst 👨🏻‍💻, Team Lead 🧭, and a professional with unwavering dedication to the gaming realm 🎮. I’m on a relentless quest for excellence and on a mission to craft mesmerizing gaming experiences ✨.
+I’m an enthusiastic Computer Science grad — a Game Quality Assurance Analyst👨🏻‍💻, Team Lead, and a professional with unwavering dedication to the gaming realm 🎮. I’m on a relentless quest for excellence and on a mission to craft mesmerizing gaming experiences ✨.
 
 Over the past 4 years, I’ve ventured into uncharted territories 🌌 of the game industry, contributing to projects ranging from indie titles 🕹️ to AA-scale releases 🛠️.
 
