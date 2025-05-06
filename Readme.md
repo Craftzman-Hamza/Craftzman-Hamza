@@ -3,21 +3,16 @@
 <h3 align="center">Digital Craftsman🎮 (Game Quality Assurance Analyst / Game Designer)🕹️</h3>
 
 <p align="justify">
-I'm an enthusiastic Computer Science professional with an unwavering dedication to the gaming realm. 🎮 I'm on a relentless quest for excellence in the world of gaming, 🚀 and on a mission to craft mesmerizing gaming experiences.
+I’m an enthusiastic Computer Science grad — a Game Quality Assurance Analyst 👨🏻‍💻, Team Lead 🧭, and a professional with unwavering dedication to the gaming realm 🎮. I’m on a relentless quest for excellence and on a mission to craft mesmerizing gaming experiences ✨.
 
-Over the past 2 years, I've been privileged to dive deep into the immersive landscapes of the game industry as a Game QA Analyst. My journey has taken me through the intricate labyrinths of video games, ranging from A-Title releases to Indie Games🎮. On the QA front, I leverage my expertise in meticulous testing methodologies, spanning from Blackbox to Whitebox, alongside bug tracking tools and automation testing frameworks to ensure the comprehensive evaluation of quality and flawless execution of gaming experiences🛠️. In the domain of Game Design, I seamlessly integrate creativity and technical acumen. My proficiency in user research and design thinking allows me to deeply understand player needs and preferences, shaping games that captivate audiences.
+Over the past 4 years, I’ve ventured into uncharted territories 🌌 of the game industry, contributing to projects ranging from indie titles 🕹️ to AA-scale releases 🛠️.
 
-I've ventured into uncharted territories 🌌 and am at the forefront of exploration in fascinating areas that have the potential to drastically alter the future of gaming and technology🚀. As I navigate this ever-evolving world, I'm constantly eager to acquire new knowledge and stay updated with the latest trends and tools in the gaming and tech industries.
+At the forefront of exploration in this ever-evolving world 🌍, I’m always eager to level up ⬆️—embracing new knowledge 📚, tools 🧰, and trends 📈 that are shaping the future of gaming and technology 🚀.
 
 </p>
 
-- 🔭 I’m currently working at [FRAG Games](https://www.frag-games.com/) as **Associate Lead - Game Analyst**
-- 💬 Ask me about **Game Testing**, **Game Analysis**, **Game Design**
-- 📫 How to reach me: [Gmail](mailto:dev.hamzasultan@gmail.com) | [Outlook](mailto:dev.hamza@outlook.com)
-
-- 📃 [My Resume](https://drive.google.com/file/d/1_s98xVKQOPF0CfP7OwKZzXexUZXPGTiK/view?usp=sharing)
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Craftzman-Hamza&label=Profile%20views&color=0e75b6&style=flat" alt="Craftzman-Hamza" /></p>
+- 🔭 I’m currently working at [FRAG Games](https://www.frag-games.com/) as **Associate Team Lead - Game Quality Assurance Analyst**
+- 📫 How to reach me: [Gmail](mailto:dev.hamzasultan@gmail.com)
 
 ---
 
