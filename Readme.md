@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:dev.hamzasultan@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/hamzasultan/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hamzahsultan/">LinkedIn</a>
 </p>
 
 ---
